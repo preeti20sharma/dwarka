@@ -130,7 +130,7 @@ body {
 .re-hero-banner {
   position: relative;
   padding: 4rem 0rem 0rem 0rem;
-  background-image: url("../img/white-bg.webp");
+  background-image: url("/img/white-bg.webp");
   width: 100%;
   min-height: 90vh;
   display: flex;
@@ -271,7 +271,7 @@ body {
 
 .re-hero-image {
   position: relative;
-  background-image: url("/img/eldeco-g-5.jpg");
+  background-image: url("../img/eldeco-g-5.jpg");
   background-size: cover;
   background-position: center;
   min-height: 60vh;
